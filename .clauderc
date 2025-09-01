@@ -1,0 +1,7 @@
+{
+  "instructions": "Always read and follow PROJECT_INSTRUCTIONS.md before making any changes. Maintain the existing architecture, coding patterns, and follow the development priorities listed in the instructions.",
+  "context": [
+    "PROJECT_INSTRUCTIONS.md"
+  ],
+  "defaultBehavior": "analyze-project-first"
+}
